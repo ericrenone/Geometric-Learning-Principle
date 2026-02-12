@@ -207,6 +207,10 @@ LCRD provides:
 
 ---
 
+<img width="2880" height="1324" alt="image" src="https://github.com/user-attachments/assets/7bacc753-f79b-4f18-8e0c-192bb753192e" />
+
+---
+
 ## Results
 
 ### Pareto Frontier Visualization
