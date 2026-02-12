@@ -122,9 +122,3 @@ LCRD provides:
 - ✅ **Principled regularization** beyond heuristic penalties
 - ✅ **Theoretical guarantees** via invariant manifold theory
 
----
-
-## Installation
-
-### Requirements
-```bash
