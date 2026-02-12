@@ -1,6 +1,6 @@
 # Geometric-Entropic Learning Principle
 
-> **A unified mathematical framework demonstrating that adaptive learning systems achieve optimal generalization at the Pareto frontier between entropy-preserving exploration and geometric stability constraints.**
+> **A unified framework demonstrating that adaptive learning systems achieve optimal generalization at the Pareto frontier between entropy-preserving exploration and geometric stability constraints.**
 
 ---
 
@@ -126,11 +126,7 @@ Deviations from this frontier result in:
 
 ---
 
-## LCRD Connection
-
-### What is LCRD?
-
-**LCRD — Lattice-Constrained Representation Dynamics**
+## **LCRD — Lattice-Constrained Representation Dynamics** Connection
 
 LCRD is the constructive algorithmic framework for finding Pareto-optimal representations through explicit geometric constraints.
 
@@ -171,3 +167,8 @@ LCRD provides:
 - ✅ **Theoretical guarantees** via invariant manifold theory
 
 ---
+
+## Installation
+
+### Requirements
+```bash
