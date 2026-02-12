@@ -1,6 +1,6 @@
 # Geometric–Entropic Learning Principle
 
-> **Generalization is the result of a geometric-entropic balance. Learning isn’t just arbitrary optimization—it’s the process of finding the unique representation that maximizes task-relevant information while minimizing geometric complexity. This principle unifies the bias-variance tradeoff, information bottleneck, and structural risk minimization into a single predictive framework called Lattice-Constrained Dynamics.**
+> **Generalization is the result of a geometric-entropic balance. Learning isn’t just arbitrary optimization—it’s the process of finding the unique representation that maximizes task-relevant information while minimizing geometric complexity.**
 
 
 ---
